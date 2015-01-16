@@ -106,4 +106,3 @@ ggplot(stepIntervalImpute, aes(interval, steps)) + geom_line() + facet_grid(dayt
      labs(x = expression("Interval"), y = expression("Number of Steps")) 
 ```
 
-
